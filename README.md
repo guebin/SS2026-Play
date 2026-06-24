@@ -9,12 +9,12 @@
 - `ipywidgets` 인터랙티브 위젯(슬라이더→그래프) 지원 — 표집분포·부트스트랩 등 시연
 
 ## 접속
-- 전체 실습환경(Lab): `https://<USER>.github.io/<REPO>/lab/index.html`
+- 전체 실습환경(Lab): `https://guebin.github.io/SS2026-Play/lab/index.html`
 - 단일 셀(REPL, iframe 임베드용): `.../repl/index.html?kernel=python`
 
 ## Quarto 책에 임베드 (예)
 ```html
-<iframe src="https://<USER>.github.io/<REPO>/repl/index.html?kernel=python&toolbar=1"
+<iframe src="https://guebin.github.io/SS2026-Play/repl/index.html?kernel=python&toolbar=1"
         width="100%" height="500" loading="lazy"></iframe>
 ```
 
