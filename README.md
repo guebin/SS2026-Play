@@ -1,7 +1,14 @@
-# tongsasa-play
+# SS2026-Play
 
 전북대 eNook 강의자료 **《통계적 사고와 사회》**(한경수)용 **브라우저 실행 R/Python 실습 환경**입니다.
 [JupyterLite](https://jupyterlite.readthedocs.io/) 기반 — **서버·설치 없이** 정적 GitHub Pages에서 그대로 동작합니다(WebAssembly).
+
+## ▶ 여기서 실행하세요
+
+### **🔗 <https://guebin.github.io/SS2026-Play/lab/index.html>**
+
+위 주소를 열면 바로 실습 환경이 뜹니다. 왼쪽 런처에서 **Python (Pyodide)** 또는 **R (webR)** 노트북을 클릭하세요.
+(첫 실행 시 패키지 로딩에 수십 초 — 이후 빠름.)
 
 ## 무엇을 할 수 있나
 - **Python (Pyodide)** · **R (webR)** 커널을 브라우저에서 바로 실행
